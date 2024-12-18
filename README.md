@@ -62,12 +62,6 @@ The dataset contains detailed patient information to predict stroke occurrences.
   - Test Accuracy: **94.2%**
   - Significantly improved recall and precision for the minority class.
 
-### Confusion Matrices
-
-| Without Oversampling | With Oversampling  |
-|-----------------------|--------------------|
-| ![Confusion Matrix 1](path/to/matrix1.png) | ![Confusion Matrix 2](path/to/matrix2.png) |
-
 ## Key Insights
 
 1. **Age** is the strongest predictor of stroke occurrences.
